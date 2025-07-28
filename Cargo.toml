@@ -1,0 +1,5 @@
+[package]
+name = "plannotator-tui"
+version = "0.1.0"
+edition = "2021"
+description = "Annotate Markdown in the terminal: select, comment, looks-good, delete; send the review to your agent."
