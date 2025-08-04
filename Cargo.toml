@@ -4,3 +4,4 @@ version = "0.1.0"
 edition = "2021"
 description = "Annotate Markdown in the terminal: select, comment, looks-good, delete; send the review to your agent."
 # clarify the control flow
+# drop an unused branch
